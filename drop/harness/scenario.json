@@ -1,0 +1,25 @@
+{
+  "scenarioName": "HTTP COLD START REQUEST.",
+  "actions": [
+    {
+      "actionType": "import",
+      "scenarioFile": "start.json"
+    },
+    {
+      "actionType": "import",
+      "scenarioFile": "envreload.json"
+    },
+    {
+      "actionType": "import",
+      "scenarioFile": "index.json"
+    },
+    {
+      "actionType": "import",
+      "scenarioFile": "load.json"
+    },
+    {
+      "actionType": "import",
+      "scenarioFile": "invokehttp.json"
+    }
+  ]
+}

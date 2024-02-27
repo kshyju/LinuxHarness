@@ -1,0 +1,7 @@
+{
+  "scenarioFile": "scenario.json",
+  "workerPath": "FunctionsNetHost\\FunctionsNetHost",
+  "functionAppDirectory": "FunctionApp44",
+  "DisplayVerboseError": true,
+  "WaitTimeInSecondsBeforeExit": 10
+}

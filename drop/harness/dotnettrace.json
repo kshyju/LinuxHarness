@@ -1,0 +1,10 @@
+{
+  "profilesDirectory": "..\\tools",
+  "providers": "Microsoft-AzureFunctions-WorkerHarness,Microsoft-AzureFunctions-FunctionsNetHost",
+  "durationInSeconds": 8,
+  "traceUploaderConfig": {
+    "uploadContainerUrl": "yourSASUrlForStorageContainer",
+    "ExecutableDirectory": "..\\tools",
+    "WaitTimeInSeconds": 10
+  }
+}
